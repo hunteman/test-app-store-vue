@@ -1,0 +1,22 @@
+{
+    "products": [
+      {
+        "image": "eggs_img1.jpg",
+        "name": "eggs of the first category 10 pcs",
+        "cost": 2.39,
+        "art": "t123"
+      },
+      {
+        "image": "eggs_img2.jpg",
+        "name": "eggs of the highest category 1 pack (15 pcs.)",
+        "cost": 3.60,
+        "art": "t232"
+      },
+      {
+        "image": "milk_img.jpg",
+        "name": "Just Milk Semi-Skimmed 6 x 1L (Case of 2)",
+        "cost": 1.59,
+        "art": "p332"
+      }
+    ]
+}
